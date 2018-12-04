@@ -11,9 +11,10 @@
 the `Docs` folder includes datasheets and other documentations.
 
 ## sync the project with github
-every project defined in the following repository:
-https://github.com/hamidrexa/[project_name].git
-using git bash (in [windows](https://desktop.github.com/)) or bash (in [linux](https://www.liquidweb.com/kb/install-git-ubuntu-16-04-lts/))
+every project defined in the following repository:  
+https://github.com/hamidrexa/[project_name].git  
+
+initiate the project using git bash (in [windows](https://desktop.github.com/)) or bash (in [linux](https://www.liquidweb.com/kb/install-git-ubuntu-16-04-lts/)):
 ```
 1. git clone https://gitlab.com/hamidrexa/[project_name].git
 2. git remote add origin https://gitlab.com/hamidrexa/[project_name].git
