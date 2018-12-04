@@ -22,7 +22,8 @@ initiate the project using git bash (in [windows](https://desktop.github.com/)) 
 3. git remote -v
 4. git fetch origin
 5. git pull origin master --allow-unrelated-histories
-6. git push origin master
+6. git checkout test_version
+7. git push test_version test_version
 ```
 check the current status in any step using `git status`
 
