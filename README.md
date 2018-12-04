@@ -1,6 +1,7 @@
 # Initiat a Schematic Project
 
-## create following folder and files:
+## project configuration
+create following folder and files:
 * Borad
   * [project_name].PrjPcb
   * [project_name]_PCB.PcbDoc
